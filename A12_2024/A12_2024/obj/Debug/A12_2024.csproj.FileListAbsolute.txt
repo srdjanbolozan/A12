@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\A12_2024\A12_2024\bin\Debug\A12_2024.exe.config
+C:\Users\DELL\source\repos\A12_2024\A12_2024\bin\Debug\A12_2024.exe
+C:\Users\DELL\source\repos\A12_2024\A12_2024\bin\Debug\A12_2024.pdb
+C:\Users\DELL\source\repos\A12_2024\A12_2024\obj\Debug\A12_2024.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\A12_2024\A12_2024\obj\Debug\A12_2024.Form1.resources
+C:\Users\DELL\source\repos\A12_2024\A12_2024\obj\Debug\A12_2024.Properties.Resources.resources
+C:\Users\DELL\source\repos\A12_2024\A12_2024\obj\Debug\A12_2024.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\A12_2024\A12_2024\obj\Debug\A12_2024.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\A12_2024\A12_2024\obj\Debug\A12_2024.exe
+C:\Users\DELL\source\repos\A12_2024\A12_2024\obj\Debug\A12_2024.pdb
+C:\Users\DELL\source\repos\A12_2024\A12_2024\obj\Debug\A12_2024.Pretraga.resources
+C:\Users\DELL\source\repos\A12_2024\A12_2024\obj\Debug\A12_2024.Statistika.resources
